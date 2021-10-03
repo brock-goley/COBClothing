@@ -1,3 +1,27 @@
-div {
+#header {
   border: 1px solid red;
+  height: 5vh;
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 0.5fr;
+}
+
+button {
+  margin: 1rem;
+}
+
+#home-btn {
+
+}
+
+#store-btn {
+
+}
+
+#about-btn {
+
+}
+
+#cart-btn {
+
 }
